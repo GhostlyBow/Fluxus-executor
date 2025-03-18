@@ -1,6 +1,6 @@
 # Password 1234
 
-![image](https://github.com/user-attachments/assets/475db169-bf49-4bb7-a6bc-77d39620569a)
+![image](https://github.com/user-attachments/assets/0feda452-4075-4c81-9dae-b4f328418f9d)
 
 
 # Executor for Roblox Fluxus 🚀🎮
